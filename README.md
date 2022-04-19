@@ -15,7 +15,7 @@ Please note that this project was implemented on Google Colab and Google Drive, 
 4. Once steps 1 and 2 are complete, you will be free to run the remaining code and experiment with our model.
 
 ## Notes
-- Please note that training time is several hours due to model complexity and training size.
+- Please note that training time is several hours due to model complexity and dataset size.
 - If you prefer not to train your own network, you can download our models weights from this link: 
 https://drive.google.com/file/d/1fgj6oCSNfYisZvnlRTjjXjdxouD7WuSH/view?usp=sharing
 
