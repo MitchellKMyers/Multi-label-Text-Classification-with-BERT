@@ -11,7 +11,7 @@ Please note that this project was implemented on Google Colab and Google Drive, 
    - To download already translated data, you access through this google drive link: https://drive.google.com/drive/folders/1yaVh9Eb60TVZllV6I3WCZmWdWxjaczlB?usp=sharing
 
 2. Create a new folder in Google Drive titled `MLC`
-3. Download and add `Multi_Label_Classification_BERT.ipynb` and `src` to it, along with the three translated data files listed above.
+3. Download and add `Multi_Label_Classification_BERT.ipynb` and `src` to `MLC`, along with the three translated data files listed above.
 4. Once steps 1 and 2 are complete, you will be free to run the remaining code and experiment with our model.
 
 ## Notes
