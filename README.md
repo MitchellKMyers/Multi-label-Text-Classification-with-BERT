@@ -6,7 +6,7 @@ This project is based on the following paper:
 Please note that this project was implemented on Google Colab and Google Drive, both of which are required for simple reproduction.
 1. First step is to download the required data files (two options):
    - To download untranslated Vietnamese data, you can access through this link: https://github.com/sonlam1102/job-prediction-multilabel-vietnamese/blob/main/dataset/full_dataset.zip
-      - This option also requires translation of the dataset which can be done by using  `Translation_API_utility_notebook.ipynb` in `src
+      - This option also requires translation of the dataset which can be done by using  `Translation_API_utility_notebook.ipynb` in `src`
       - In order for the experiments to run, the translated files must be named as: `en_labels.csv`, `en_test.csv`, `en_train.csv`
    - To download already translated data, you access through this google drive link: https://drive.google.com/drive/folders/1yaVh9Eb60TVZllV6I3WCZmWdWxjaczlB?usp=sharing
 
